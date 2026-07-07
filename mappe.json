@@ -442,8 +442,8 @@
             "descrizione": "Polo Universitario di Brindisi",
             "codiceSede": "BRI - 6",
             "centro": {
-                "lat": 0.0,
-                "lng": 0.0
+                "lat": 40.6401289,
+                "lng": 17.942682
             },
             "zoomIniziale": 18.0,
             "perimetro": [],
