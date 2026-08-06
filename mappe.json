@@ -5050,7 +5050,7 @@
     ],
     "puntiInteresse": [
         {
-            "id": "distribuore_h20_ing",
+            "id": "ET_distribuore_h20_ing",
             "nome": "Distributore Acqua",
             "descrizione": "Distributore di acqua ecotekne",
             "tipo": "acqua",
@@ -5060,7 +5060,7 @@
             ]
         },
         {
-            "id": "bar_ingegneria",
+            "id": "ET_bar_ingegneria",
             "nome": "Bar di Ingegneria",
             "descrizione": "Bar di Ingegneria",
             "tipo": "bar",
@@ -5070,7 +5070,7 @@
             ]
         },
         {
-            "id": "bar_giurisprudenza",
+            "id": "ET_bar_giurisprudenza",
             "nome": "Bar di Giurisprudenza",
             "descrizione": "Bar di Giurisprudenza",
             "tipo": "bar",
@@ -5080,7 +5080,7 @@
             ]
         },
         {
-            "id": "bar_fiorini",
+            "id": "ET_bar_fiorini",
             "nome": "Bar del Fiorini",
             "descrizione": "Bar del Fiorini",
             "tipo": "bar",
@@ -5090,7 +5090,7 @@
             ]
         },
         {
-            "id": "bar_economia",
+            "id": "ET_bar_economia",
             "nome": "Bar di Economia",
             "descrizione": "Bar di Economia",
             "tipo": "bar",
@@ -5100,7 +5100,7 @@
             ]
         },
         {
-            "id": "bar_universitario",
+            "id": "ET_bar_universitario",
             "nome": "Bar Universitario",
             "descrizione": "Bar Universitario",
             "tipo": "bar",
@@ -5110,9 +5110,9 @@
             ]
         },
         {
-            "id": "mensa_ecotekne",
+            "id": "ET_mensa_ecotekne",
             "nome": "Mensa Ecotekne",
-            "descrizione": "Mensa Ecotekne",
+            "descrizione": "Mensa Adisu Ecotekne",
             "tipo": "mensa",
             "coordinate": [
                 18.117317,
@@ -5130,9 +5130,29 @@
             ]
         },
         {
+            "id": "ristorante_cantuccio_del_duca",
+            "nome": "Ristorante Cantuccio del Duca",
+            "descrizione": "Ristorante convenzionato con Adisu che svolge anche la funzione di mensa universitaria",
+            "tipo": "mensa",
+            "coordinate": [
+                18.09569668806332,
+                40.32771622272883
+            ]
+        },
+        {
+            "id": "mensa_via_lombardia",
+            "nome": "Mensa Via Lombardia",
+            "descrizione": "Mensa Adisu Via Lombardia",
+            "tipo": "mensa",
+            "coordinate": [
+                18.16476272529782,
+                40.34767863799508
+            ]
+        },
+        {
             "id": "ET_fermata_economia_nord",
             "nome": "Fermata Economia",
-            "descrizione": "Fermata SGM Economia - S13",
+            "descrizione": "Fermata SGM Ecotekne Economia - S13",
             "tipo": "fermata",
             "coordinate": [
                 18.120274,
@@ -5142,7 +5162,7 @@
         {
             "id": "ET_fermata_economia_sud",
             "nome": "Fermata Economia",
-            "descrizione": "Fermata SGM Economia - S13",
+            "descrizione": "Fermata SGM Ecotekne Economia - S13",
             "tipo": "fermata",
             "coordinate": [
                 18.119916,
@@ -5150,9 +5170,9 @@
             ]
         },
         {
-            "id": "ET_fermata_ecotekne_sud",
-            "nome": "Fermata Ecotekne",
-            "descrizione": "Fermata SGM Ecotekne - S13",
+            "id": "ET_fermata_ISUFI",
+            "nome": "Fermata ISUFI",
+            "descrizione": "Fermata SGM Ecotekne ISUFI - S13",
             "tipo": "fermata",
             "coordinate": [
                 18.11659,
@@ -5177,6 +5197,26 @@
             "coordinate": [
                 18.11422,
                 40.334862
+            ]
+        },
+        {
+            "id": "ET_fermata_campus",
+            "nome": "Fermata Campus",
+            "descrizione": "Fermata SGM Ecotekne Campus - S13",
+            "tipo": "fermata",
+            "coordinate": [
+                18.12262992578074,
+                40.333917142118736
+            ]
+        },
+        {
+            "id": "fermata_city_terminal_foro_boario",
+            "nome": "Fermata City Terminal Foro Boario",
+            "descrizione": "Fermata SGM City Terminal Ex Foro Boario - S13",
+            "tipo": "fermata",
+            "coordinate": [
+                18.168806451307443,
+                40.36202508329294
             ]
         },
         {
@@ -5207,6 +5247,76 @@
             "coordinate": [
                 18.169930887823654,
                 40.36254717089413
+            ]
+        },
+        {
+            "id": "Residenza_E_De_Giorgi",
+            "nome": "Residenza “E. De Giorgi”",
+            "descrizione": "Alloggio ADISU - Residenza “E. De Giorgi””",
+            "tipo": "casa",
+            "coordinate": [
+                18.182232,
+                40.36397
+            ]
+        },
+        {
+            "id": "Residenza_M_Corti",
+            "nome": "Residenza “M. Corti”",
+            "descrizione": "Alloggio ADISU - Residenza “M. Corti”",
+            "tipo": "casa",
+            "coordinate": [
+                18.164758989439253,
+                40.34768239812302
+            ]
+        },
+        {
+            "id": "Ex_Hotel_Zenit",
+            "nome": "Ex \"Hotel Zenit\"",
+            "descrizione": "Alloggio ADISU - Ex \"Hotel Zenit\"",
+            "tipo": "casa",
+            "coordinate": [
+                18.168749397821262,
+                40.36644972155501
+            ]
+        },
+        {
+            "id": "Residenza_Lopez_y_Royo",
+            "nome": "Residenza “Lopez y Royo” ",
+            "descrizione": "Alloggio ADISU - Residenza “Lopez y Royo”",
+            "tipo": "casa",
+            "coordinate": [
+                18.092299965588143,
+                40.32675043597687
+            ]
+        },
+        {
+            "id": "Residenza_De_Franchis",
+            "nome": "Residenza “De Franchis”",
+            "descrizione": "Alloggio ADISU - Residenza “De Franchis”",
+            "tipo": "casa",
+            "coordinate": [
+                18.16148418903107,
+                40.34756439744123
+            ]
+        },
+        {
+            "id": "Residenza_Civilitas",
+            "nome": "Residenza “Civilitas”",
+            "descrizione": "Alloggio ADISU - Residenza “Civilitas”",
+            "tipo": "casa",
+            "coordinate": [
+                18.102438610235797,
+                40.328822748884676
+            ]
+        },
+        {
+            "id": "Residenza_VisONE",
+            "nome": "Residenza “VisONE”",
+            "descrizione": "Alloggio ADISU - Residenza “VisONE”",
+            "tipo": "casa",
+            "coordinate": [
+                18.091742338522224,
+                40.33721764939928
             ]
         }
     ]
