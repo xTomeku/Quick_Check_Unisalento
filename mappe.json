@@ -4092,6 +4092,67 @@
             "icona": "school"
         },
         {
+            "id": "scuola_infermieristica___tricase",
+            "nome": "Scuola Infermieristica - Tricase",
+            "descrizione": "Padiglione Campus Ecotekne",
+            "codiceSede": "TRICASE - 1",
+            "centro": {
+                "lat": 39.9362809,
+                "lng": 18.3563498
+            },
+            "zoomIniziale": 18.0,
+            "perimetro": [
+                [
+                    18.3578745,
+                    39.9375161
+                ],
+                [
+                    18.3576518,
+                    39.9365014
+                ],
+                [
+                    18.3557585,
+                    39.9349583
+                ],
+                [
+                    18.3556595,
+                    39.9347764
+                ],
+                [
+                    18.3545049,
+                    39.9351924
+                ],
+                [
+                    18.3554002,
+                    39.9359059
+                ],
+                [
+                    18.3560298,
+                    39.9368544
+                ]
+            ],
+            "piani": [
+                0
+            ],
+            "aule": [
+                {
+                    "id": "aula_magna",
+                    "nome": "Aula Magna",
+                    "roomCode": "TRI - 1",
+                    "piano": 0,
+                    "coordinata": null,
+                    "coordinate": [],
+                    "stato": "Sconosciuto",
+                    "lezioneAttuale": "Sconosciuta",
+                    "docente": "Sconosciuto",
+                    "orario": "Sconosciuto",
+                    "capienza": 100,
+                    "coloreStato": "ff9e9e9e"
+                }
+            ],
+            "icona": "school"
+        },
+        {
             "id": "sperimentale_1",
             "nome": "Sperimentale 1",
             "descrizione": "Sede Urbana Lecce Centro",
