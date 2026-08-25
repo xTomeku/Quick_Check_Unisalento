@@ -2351,7 +2351,7 @@
                     "nome": "Aula Y-3",
                     "roomCode": "CORPOY - 3",
                     "piano": 0,
-                    "coordinata": [],
+                    "coordinata": null,
                     "coordinate": [],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
