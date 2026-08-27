@@ -2287,6 +2287,69 @@
             "icona": "school"
         },
         {
+            "id": "et_corpo_s",
+            "nome": "ET Corpo S",
+            "descrizione": "Padiglione Campus Ecotekne",
+            "codiceSede": "ET - 20",
+            "centro": {
+                "lat": 40.3344153,
+                "lng": 18.1149341
+            },
+            "zoomIniziale": 18.0,
+            "perimetro": [
+                [
+                    18.114571217396588,
+                    40.334839471646404
+                ],
+                [
+                    18.11515827055743,
+                    40.334915159868046
+                ],
+                [
+                    18.115357429722337,
+                    40.3340175764458
+                ],
+                [
+                    18.11477037656246,
+                    40.33394188721735
+                ]
+            ],
+            "piani": [
+                0
+            ],
+            "aule": [
+                {
+                    "id": "s.1.4/5",
+                    "nome": "s.1.4/5",
+                    "roomCode": "S - 1",
+                    "piano": 0,
+                    "coordinata": null,
+                    "coordinate": [],
+                    "stato": "Sconosciuto",
+                    "lezioneAttuale": "Sconosciuta",
+                    "docente": "Sconosciuto",
+                    "orario": "Sconosciuto",
+                    "capienza": 354,
+                    "coloreStato": "ff9e9e9e"
+                },
+                {
+                    "id": "S.1.6",
+                    "nome": "S.1.6",
+                    "roomCode": "S - 2",
+                    "piano": 0,
+                    "coordinata": null,
+                    "coordinate": [],
+                    "stato": "Sconosciuto",
+                    "lezioneAttuale": "Sconosciuta",
+                    "docente": "Sconosciuto",
+                    "orario": "Sconosciuto",
+                    "capienza": 102,
+                    "coloreStato": "ff9e9e9e"
+                }
+            ],
+            "icona": "school"
+        },
+        {
             "id": "angelo_rizzo",
             "nome": "ET Corpo Y (A. Rizzo)\"",
             "descrizione": "Corpo Y — Facoltà di Ingegneria",
@@ -2351,8 +2414,16 @@
                     "nome": "Aula Y-3",
                     "roomCode": "CORPOY - 3",
                     "piano": 0,
-                    "coordinata": null,
-                    "coordinate": [],
+                    "coordinata": [
+                        18.112938,
+                        40.334218
+                    ],
+                    "coordinate": [
+                        [
+                            18.112938,
+                            40.334218
+                        ]
+                    ],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
