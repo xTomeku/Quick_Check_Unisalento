@@ -2414,16 +2414,8 @@
                     "nome": "Aula Y-3",
                     "roomCode": "CORPOY - 3",
                     "piano": 0,
-                    "coordinata": [
-                        18.112938,
-                        40.334218
-                    ],
-                    "coordinate": [
-                        [
-                            18.112938,
-                            40.334218
-                        ]
-                    ],
+                    "coordinata": null,
+                    "coordinate": [],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
