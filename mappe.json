@@ -5130,6 +5130,40 @@
             "icona": "school"
         },
         {
+            "id": "palazzo_codacci_pisanelli",
+            "nome": "Codacci-Pisanelli",
+            "descrizione": "Palazzo Codacci-Pisanelli",
+            "codiceSede": "URBANO - CODACCI",
+            "centro": {
+                "lat": 40.3560896,
+                "lng": 18.1675234
+            },
+            "zoomIniziale": 18.0,
+            "perimetro": [
+                [
+                    18.16812137523661,
+                    40.356289540872666
+                ],
+                [
+                    18.167678640191184,
+                    40.355545789980624
+                ],
+                [
+                    18.166884218340044,
+                    40.35582040286303
+                ],
+                [
+                    18.16732695338547,
+                    40.35656415072526
+                ]
+            ],
+            "piani": [
+                0
+            ],
+            "aule": [],
+            "icona": "school"
+        },
+        {
             "id": "community_library",
             "nome": "Community Library",
             "descrizione": "Community Library",
@@ -5162,6 +5196,23 @@
             ],
             "aule": [],
             "icona": "lab"
+        },
+        {
+            "id": "Museo_Papirologico",
+            "nome": "Museo Papirologico",
+            "descrizione": "Museo Papirologico",
+            "codiceSede": "URBANO - Museo Papirologico",
+            "centro": {
+                "lat": 40.3587575,
+                "lng": 18.1655093
+            },
+            "zoomIniziale": 18.0,
+            "perimetro": [],
+            "piani": [
+                0
+            ],
+            "aule": [],
+            "icona": "library"
         }
     ],
     "puntiInteresse": [
