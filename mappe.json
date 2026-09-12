@@ -206,7 +206,8 @@
                 ]
             ],
             "piani": [
-                0
+                0,
+                1
             ],
             "aule": [
                 {
@@ -214,8 +215,16 @@
                     "nome": "BP8 (St. Russo)",
                     "roomCode": "PAST - 8",
                     "piano": 0,
-                    "coordinata": null,
-                    "coordinate": [],
+                    "coordinata": [
+                        18.165873,
+                        40.357897
+                    ],
+                    "coordinate": [
+                        [
+                            18.165873,
+                            40.357897
+                        ]
+                    ],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
@@ -228,8 +237,16 @@
                     "nome": "Bp1",
                     "roomCode": "PAST - 1",
                     "piano": 0,
-                    "coordinata": null,
-                    "coordinate": [],
+                    "coordinata": [
+                        18.16561,
+                        40.35768
+                    ],
+                    "coordinate": [
+                        [
+                            18.16561,
+                            40.35768
+                        ]
+                    ],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
@@ -241,9 +258,17 @@
                     "id": "bp2",
                     "nome": "Bp2",
                     "roomCode": "PAST - 2",
-                    "piano": 0,
-                    "coordinata": null,
-                    "coordinate": [],
+                    "piano": 1,
+                    "coordinata": [
+                        18.165754,
+                        40.358074
+                    ],
+                    "coordinate": [
+                        [
+                            18.165754,
+                            40.358074
+                        ]
+                    ],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
@@ -255,9 +280,17 @@
                     "id": "bp3",
                     "nome": "Bp3",
                     "roomCode": "PAST - 3",
-                    "piano": 0,
-                    "coordinata": null,
-                    "coordinate": [],
+                    "piano": 1,
+                    "coordinata": [
+                        18.165783,
+                        40.357768
+                    ],
+                    "coordinate": [
+                        [
+                            18.165783,
+                            40.357768
+                        ]
+                    ],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
@@ -269,9 +302,17 @@
                     "id": "bp5",
                     "nome": "Bp5",
                     "roomCode": "PAST - 5",
-                    "piano": 0,
-                    "coordinata": null,
-                    "coordinate": [],
+                    "piano": 1,
+                    "coordinata": [
+                        18.165621,
+                        40.357654
+                    ],
+                    "coordinate": [
+                        [
+                            18.165621,
+                            40.357654
+                        ]
+                    ],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
@@ -283,9 +324,17 @@
                     "id": "bp6",
                     "nome": "Bp6",
                     "roomCode": "PAST - 6",
-                    "piano": 0,
-                    "coordinata": null,
-                    "coordinate": [],
+                    "piano": 1,
+                    "coordinata": [
+                        18.16561,
+                        40.35768
+                    ],
+                    "coordinate": [
+                        [
+                            18.16561,
+                            40.35768
+                        ]
+                    ],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
@@ -298,8 +347,16 @@
                     "nome": "Bp7",
                     "roomCode": "PAST - 7",
                     "piano": 0,
-                    "coordinata": null,
-                    "coordinate": [],
+                    "coordinata": [
+                        18.16577,
+                        40.357928
+                    ],
+                    "coordinate": [
+                        [
+                            18.16577,
+                            40.357928
+                        ]
+                    ],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
@@ -326,8 +383,16 @@
                     "nome": "Lab. Did. BP4",
                     "roomCode": "PAST - 4",
                     "piano": 0,
-                    "coordinata": null,
-                    "coordinate": [],
+                    "coordinata": [
+                        18.112938,
+                        40.334218
+                    ],
+                    "coordinate": [
+                        [
+                            18.112938,
+                            40.334218
+                        ]
+                    ],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
@@ -2378,6 +2443,7 @@
                 ]
             ],
             "piani": [
+                -1,
                 0
             ],
             "aule": [
@@ -2386,8 +2452,16 @@
                     "nome": "Aula Y-1",
                     "roomCode": "CORPOY - 1",
                     "piano": 0,
-                    "coordinata": null,
-                    "coordinate": [],
+                    "coordinata": [
+                        18.112935,
+                        40.334459
+                    ],
+                    "coordinate": [
+                        [
+                            18.112935,
+                            40.334459
+                        ]
+                    ],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
@@ -2400,8 +2474,16 @@
                     "nome": "Aula Y-2",
                     "roomCode": "CORPOY - 2",
                     "piano": 0,
-                    "coordinata": null,
-                    "coordinate": [],
+                    "coordinata": [
+                        18.11297,
+                        40.334258
+                    ],
+                    "coordinate": [
+                        [
+                            18.11297,
+                            40.334258
+                        ]
+                    ],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
@@ -2414,8 +2496,16 @@
                     "nome": "Aula Y-3",
                     "roomCode": "CORPOY - 3",
                     "piano": 0,
-                    "coordinata": null,
-                    "coordinate": [],
+                    "coordinata": [
+                        18.11297,
+                        40.334128
+                    ],
+                    "coordinate": [
+                        [
+                            18.11297,
+                            40.334128
+                        ]
+                    ],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
@@ -2428,8 +2518,16 @@
                     "nome": "Aula Y-4",
                     "roomCode": "CORPOY - 4",
                     "piano": 0,
-                    "coordinata": null,
-                    "coordinate": [],
+                    "coordinata": [
+                        18.113399,
+                        40.334518
+                    ],
+                    "coordinate": [
+                        [
+                            18.113399,
+                            40.334518
+                        ]
+                    ],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
@@ -2442,8 +2540,16 @@
                     "nome": "Aula Y-5",
                     "roomCode": "CORPOY - 5",
                     "piano": 0,
-                    "coordinata": null,
-                    "coordinate": [],
+                    "coordinata": [
+                        18.113307,
+                        40.334502
+                    ],
+                    "coordinate": [
+                        [
+                            18.113307,
+                            40.334502
+                        ]
+                    ],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
@@ -2456,8 +2562,16 @@
                     "nome": "Aula Y-6",
                     "roomCode": "CORPOY - 6",
                     "piano": 0,
-                    "coordinata": null,
-                    "coordinate": [],
+                    "coordinata": [
+                        18.113361,
+                        40.334233
+                    ],
+                    "coordinate": [
+                        [
+                            18.113361,
+                            40.334233
+                        ]
+                    ],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
@@ -2470,8 +2584,16 @@
                     "nome": "Aula Y-7",
                     "roomCode": "CORPOY - 7",
                     "piano": 0,
-                    "coordinata": null,
-                    "coordinate": [],
+                    "coordinata": [
+                        18.113448,
+                        40.334245
+                    ],
+                    "coordinate": [
+                        [
+                            18.113448,
+                            40.334245
+                        ]
+                    ],
                     "stato": "Sconosciuto",
                     "lezioneAttuale": "Sconosciuta",
                     "docente": "Sconosciuto",
@@ -5284,13 +5406,33 @@
     ],
     "puntiInteresse": [
         {
+            "id": "distributore_assorbenti_studium2000",
+            "nome": "Distributore Assorbenti Studium 2000",
+            "descrizione": "Distributore Gratuito di Assorbenti a Studium 2000",
+            "tipo": "assorbenti",
+            "coordinate": [
+                18.165879,
+                40.358164
+            ]
+        },
+        {
             "id": "ET_distribuore_h20_ing",
-            "nome": "Distributore Acqua",
+            "nome": "Distributore Acqua Ingegneria",
             "descrizione": "Distributore di acqua ecotekne",
             "tipo": "acqua",
             "coordinate": [
                 18.113654,
                 40.334474
+            ]
+        },
+        {
+            "id": "distribuore_h20_studium",
+            "nome": "Distributore Acqua",
+            "descrizione": "Distributore di acqua studium",
+            "tipo": "acqua",
+            "coordinate": [
+                18.165879,
+                40.358164
             ]
         },
         {
