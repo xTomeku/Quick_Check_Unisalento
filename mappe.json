@@ -2475,13 +2475,13 @@
                     "roomCode": "CORPOY - 2",
                     "piano": 0,
                     "coordinata": [
-                        18.11297,
-                        40.334258
+                        18.112944,
+                        40.334246
                     ],
                     "coordinate": [
                         [
-                            18.11297,
-                            40.334258
+                            18.112944,
+                            40.334246
                         ]
                     ],
                     "stato": "Sconosciuto",
@@ -5426,13 +5426,13 @@
             ]
         },
         {
-            "id": "distribuore_h20_studium",
-            "nome": "Distributore Acqua",
-            "descrizione": "Distributore di acqua studium",
+            "id": "distribuore_h20_studium6",
+            "nome": "Distributore Acqua Studium 6",
+            "descrizione": "Distributore di acqua polo urbano",
             "tipo": "acqua",
             "coordinate": [
-                18.165879,
-                40.358164
+                18.164558,
+                40.359112
             ]
         },
         {
@@ -5563,16 +5563,6 @@
             "coordinate": [
                 18.122682,
                 40.334958
-            ]
-        },
-        {
-            "id": "ET_fermata_ingegneria",
-            "nome": "Fermata Ingegneria",
-            "descrizione": "Fermata SGM Ecotekne Ingegneria - S13",
-            "tipo": "fermata",
-            "coordinate": [
-                18.11422,
-                40.334862
             ]
         },
         {
